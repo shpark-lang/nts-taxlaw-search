@@ -109,7 +109,7 @@ PAGE = """
     </div>
 
     <div class="dept-bar">
-      <span class="dept-name">한동대학교 재무관리팀 · 산학협력단</span>
+      <span class="dept-name">한동대학교 산학협력단 / 재무회계팀</span>
       <span class="dept-meta">{{ today }} · 검색 {{ total_count }}회</span>
     </div>
 
